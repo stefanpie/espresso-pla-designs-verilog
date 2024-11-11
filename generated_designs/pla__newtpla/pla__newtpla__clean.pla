@@ -1,0 +1,29 @@
+.i 15
+.o 5
+.ilb tagcompare tCPIPE1s__larrow__0__rarrow__ tCPIPE1s__larrow__1__rarrow__ tCPIPE1s__larrow__2__rarrow__ tCPIPE1s__larrow__3__rarrow__ tCPIPE1s__larrow__4__rarrow__ tCPIPE1s__larrow__5__rarrow__ tCPIPE1s__larrow__7__rarrow__ tbusA__larrow__31__rarrow__ tbusB__larrow__31__rarrow__ tbusB__larrow__30__rarrow__ tbusB__larrow__29__rarrow__ tbusB__larrow__28__rarrow__ tCPIPE1s__larrow__6__rarrow__ tCPIPE1s__larrow__8__rarrow__
+.ob GStrap trapinstr TAGtrap pov_unflow skipCONDenable
+.p 23
+--001011-0---10 00100
+-0-0-011-0---10 00100
+--0010111----1- 00100
+-0-0-0111----1- 00100
+----0101-0---10 00100
+-00011010----1- 00100
+-0001101-00001- 10000
+00001101-----1- 10000
+--1-0101------- 01000
+--0111010----11 00100
+--01110101---1- 00100
+----01011----1- 00100
+--110011-0---10 00100
+---10101------- 01000
+----10011----1- 10000
+--01-10110---10 00100
+--1100111----1- 00100
+-0--0011-0---10 00100
+-1--0101------- 01000
+-0--00111----1- 00100
+-0000101------- 00001
+--001011-----1- 00010
+-0-01011-----1- 00010
+.e

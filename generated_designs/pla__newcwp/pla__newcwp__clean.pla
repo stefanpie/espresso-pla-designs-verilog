@@ -1,0 +1,17 @@
+.i 4
+.o 5
+.ilb CWP__larrow__6__rarrow__ CWP__larrow__5__rarrow__ CWP__larrow__4__rarrow__ changeCWP2
+.ob CWP__plus__1__larrow__2__rarrow__ CWP__plus__1__larrow__1__rarrow__ CWP__plus__1__larrow__0__rarrow__ CWPm1__larrow__1__rarrow__ CWPm1__larrow__2__rarrow__
+.p 11
+101- 10001
+110- 10001
+111- 00011
+-001 10010
+--0- 00100
+-011 01000
+000- 10001
+-101 01000
+-000 01010
+-110 11000
+011- 10010
+.e

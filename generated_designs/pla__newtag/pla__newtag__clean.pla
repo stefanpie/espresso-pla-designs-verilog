@@ -1,0 +1,14 @@
+.i 8
+.o 1
+.ilb busB__larrow__31__rarrow__ busA__larrow__31__rarrow__ busA__larrow__30__rarrow__ busB__larrow__30__rarrow__ busB__larrow__29__rarrow__ busA__larrow__29__rarrow__ busB__larrow__28__rarrow__ busA__larrow__28__rarrow__
+.ob ptagcompare
+.p 8
+-0------ 1
+---1-00- 1
+---10-0- 1
+---1-0-0 1
+---10--0 1
+---100-- 1
+--1----- 1
+1------- 1
+.e

@@ -1,0 +1,5 @@
+.mypy_cache
+**/__pycache__/
+generated_designs/*/yosys/
+generated_designs/*/abc/
+.DS_Store

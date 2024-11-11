@@ -1,0 +1,10 @@
+.i 10
+.o 2
+.ilb CPIPE1s__larrow__6__rarrow__ CPIPE1s__larrow__0__rarrow__ CPIPE1s__larrow__1__rarrow__ CPIPE1s__larrow__2__rarrow__ CPIPE1s__larrow__3__rarrow__ CPIPE1s__larrow__4__rarrow__ CPIPE1s__larrow__5__rarrow__ CPIPE1s__larrow__7__rarrow__ AIprocessed__larrow__31__rarrow__ AIprocessed__larrow__30__rarrow__
+.ob shiftAbus31 shiftAbus30
+.p 4
+-01000111- 10
+00-000111- 01
+10100011-1 01
+10-000111- 10
+.e
